@@ -1,0 +1,30 @@
+Order,Item_id,Sentence,word_count,syllable_count,intonation_type,sentence_type,audiofile,adult_file_name
+1,pros_26,"Ó, ha felnőtt lennék!",4,6,lebego,exclamation,stimlist/audiofiles/SLP_A_lebego_20.wav,adult_audio_01
+2,pros_2,Hányadikos?,1,4,eso,question,stimlist/audiofiles/SLP_B_eso_06.wav,adult_audio_02
+3,pros_25,"Kinyitottam az ajtót, mert kopogást hallottam.",6,14,lebego,declarative,stimlist/audiofiles/SLP_A_lebego_12.wav,adult_audio_03
+4,pros_10,Hozd te a szalvétát!,4,6,eso,imperative,stimlist/audiofiles/SLP_B_eso_21.wav,adult_audio_04
+5,pros_14,Fáradt vagyok.,2,4,ereszkedo,declarative,stimlist/audiofiles/SLP_B_ereszkedo_13.wav,adult_audio_05
+6,pros_7,Kapcsold le a villanyt!,4,6,eso,imperative,stimlist/audiofiles/SLP_B_eso_23.wav,adult_audio_06
+7,pros_22,"Ádám sírva ébredt fel, mert rosszat álmodott.",7,13,lebego,declarative,stimlist/audiofiles/SLP_A_lebego_08.wav,adult_audio_07
+8,pros_3,Ki az?,2,2,eso,question,stimlist/audiofiles/SLP_B_eso_08.wav,adult_audio_08
+9,pros_9,Nem akarok veled játszani!,4,9,eso,imperative,stimlist/audiofiles/SLP_B_eso_29.wav,adult_audio_09
+10,pros_28,Bárcsak lenne testvérem!,3,7,lebego,exclamation,stimlist/audiofiles/SLP_A_lebego_21.wav,adult_audio_10
+11,pros_5,Mik ezek?,2,3,eso,question,stimlist/audiofiles/SLP_B_eso_11.wav,adult_audio_11
+12,pros_15,"Nem értem, amit mondasz.",4,7,ereszkedo,declarative,stimlist/audiofiles/SLP_B_ereszkedo_15.wav,adult_audio_12
+13,pros_6,Nyisd ki az ablakot!,4,6,eso,imperative,stimlist/audiofiles/SLP_B_eso_24.wav,adult_audio_13
+14,pros_21,"A testvéremet Daninak hívják, kilenc éves.",6,14,lebego,declarative,stimlist/audiofiles/SLP_A_lebego_01.wav,adult_audio_14
+15,pros_24,"Emese kölcsönadta a könyvét, nagyon érdekes.",6,15,lebego,declarative,stimlist/audiofiles/SLP_A_lebego_06.wav,adult_audio_15
+16,pros_18,Mikor lesz felelés?,3,6,ereszkedo,question,stimlist/audiofiles/SLP_B_ereszkedo_05.wav,adult_audio_16
+17,pros_29,De ennék egy hamburgert!,4,7,lebego,exclamation,stimlist/audiofiles/SLP_A_lebego_18.wav,adult_audio_17
+18,pros_19,Mit csináltok?,2,4,ereszkedo,question,stimlist/audiofiles/SLP_B_ereszkedo_10.wav,adult_audio_18
+19,pros_11,A nyáron a Balatonra fogunk utazni. ,6,13,ereszkedo,declarative,stimlist/audiofiles/SLP_B_ereszkedo_23.wav,adult_audio_19
+20,pros_13,A hétvégén moziban voltunk.,4,9,ereszkedo,declarative,stimlist/audiofiles/SLP_B_ereszkedo_22.wav,adult_audio_20
+21,pros_30,Bárcsak július lenne!,3,7,lebego,exclamation,stimlist/audiofiles/SLP_A_lebego_19.wav,adult_audio_21
+22,pros_12,Ma még nem láttam Tamás bácsit.,6,9,ereszkedo,declarative,stimlist/audiofiles/SLP_B_ereszkedo_19.wav,adult_audio_22
+23,pros_4,Kik azok?,2,3,eso,question,stimlist/audiofiles/SLP_B_eso_09.wav,adult_audio_23
+24,pros_27,De szeretnék szánkózni!,3,7,lebego,exclamation,stimlist/audiofiles/SLP_A_lebego_16.wav,adult_audio_24
+25,pros_16,Kinek készítesz ajándékot?,3,9,ereszkedo,question,stimlist/audiofiles/SLP_B_ereszkedo_09.wav,adult_audio_25
+26,pros_8,Indulj már a tízóraiért!,4,9,eso,imperative,stimlist/audiofiles/SLP_B_eso_22.wav,adult_audio_26
+27,pros_1,Mennyi?,1,2,eso,question,stimlist/audiofiles/SLP_B_eso_05.wav,adult_audio_27
+28,pros_20,Hány testvéred van?,3,5,ereszkedo,question,stimlist/audiofiles/SLP_B_ereszkedo_03.wav,adult_audio_28
+29,pros_23,"Kinéztem az ablakon, és egy madarat láttam.",7,14,lebego,declarative,stimlist/audiofiles/SLP_A_lebego_13.wav,adult_audio_29
