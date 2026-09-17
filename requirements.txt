@@ -1,0 +1,15 @@
+# Python dependencies for 01_extract_prosodic_features.py and
+# 02_compute_derived_features.py
+#
+# NOTE: these are unpinned minimum versions. For exact reproducibility,
+# replace this file with the output of `pip freeze` from the actual
+# environment used to run the analysis (e.g., inside a virtualenv/conda
+# env: `pip freeze > requirements.txt`), then re-upload.
+
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+soundfile>=0.12
+librosa>=0.10
+praat-parselmouth>=0.4.3
+tqdm>=4.65
