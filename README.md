@@ -1,8 +1,3 @@
-# Prosodic feature extraction pipeline
-
-Code accompanying "Reading Prosody as a Mediator Between Phonological
-Skills and Reading Fluency in Hungarian Children."
-
 ## Pipeline order
 
 1. **`01_extract_prosodic_features.py`**
@@ -48,7 +43,7 @@ refer to their PRT (reading) recording.
 Raw audio recordings (.wav) — both children's task recordings and the
 adult reference stimuli recorded by the two speech-language
 therapists — are not included in this repository. `imitation_baseline_alignment_table.csv`
-and the two stimuli files are included to document file/task
+and the two stimuli files are included to document task
 structure, but their audio paths are illustrative and will not
 resolve without the original audio corpus. Speaker
 identities in the stimuli files have been anonymized to `SLP_A` /
@@ -58,14 +53,6 @@ The final, anonymized, participant-level feature and outcome dataset
 used in the reported analyses (age, gender, PA, RAN, Reading Fluency,
 Tempo Stability, Pausal Intrusions, Melody Error, Rhythm Error) is
 provided as `final_analysis_dataset_anonymized.csv`.
-
-## Ethics
-
-Data collection was approved by the Institutional Review Board for
-Psychological Research (Egyesített Pszichológiai Kutatásetikai
-Bizottság [EPKEB]; approval number 2022-127). Informed written consent
-was obtained from all participating children and their parents/legal
-guardians.
 
 ## Requirements
 
